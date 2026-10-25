@@ -29,7 +29,7 @@ public class App {
         String zEcu = "(23+y-x)/6";
 
         // Mostramos las ecuaciones
-        System.out.println("Ecuaciones:y e \n");
+        System.out.println("Ecuaciones:\n");
         System.out.println("x =".concat(xEcu));
         System.out.println("y =".concat(yEcu));
         System.out.println("z =".concat(zEcu));
